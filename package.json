@@ -38,7 +38,7 @@
     "async": "1.5.2",
     "babel-polyfill": "^6.26.0",
     "bluebird": "3.5.1",
-    "bugsnag-js": "2.5.0",
+    "bugsnag-js": "4.7.3",
     "cached-request": "1.1.2",
     "classnames": "2.2.5",
     "deep-extend": "^0.6.0",
